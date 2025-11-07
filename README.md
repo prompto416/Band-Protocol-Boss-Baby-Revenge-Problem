@@ -14,3 +14,5 @@ Additionally, I'll write a solution here
 
 2.2 If S = 0 but we find an R we ignore it because the boss baby can shoot back as much as he wants "as long as he doesn't shoot first".
 
+
+# Time Complexity of BigO(n) and Memory Complexity of BigO(1)
