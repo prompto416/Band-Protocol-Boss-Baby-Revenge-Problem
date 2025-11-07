@@ -1,5 +1,5 @@
-
-#define function name
+#Time Complexity of BigO(n) and Memory Complexity of BigO(1)
+#define the function name
 def bossbaby_revenge(shots_record): 
 
     #Incase we have weird input
